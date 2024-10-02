@@ -61,11 +61,12 @@
 
 ## 🔭 All about my GitHub
 <a href="https://github.com/yeon820">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yeon820" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=yeon820" style="border:none;" />
 </a>
 <a href="https://github.com/yeon820">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeon820&layout=compact&langs_count=8&card_width=320" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeon820&layout=compact&langs_count=8&card_width=320" style="border:none;" />
 </a>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkslfk11)](https://solved.ac/qkslfk11/)
 
